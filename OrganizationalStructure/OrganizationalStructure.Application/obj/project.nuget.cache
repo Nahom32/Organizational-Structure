@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QON5koLEc6rwLjR+3q1Z7tdhmMjROFvCsKT6cVvRWQ2/XFcQj3GFBM5PmxC7hE2cdfNSur6ZyixJYS9o5B5Fbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\programs\\Organizational-Structure\\OrganizationalStructure\\OrganizationalStructure.Application\\OrganizationalStructure.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
