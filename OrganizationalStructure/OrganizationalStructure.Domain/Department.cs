@@ -12,7 +12,7 @@ namespace OrganizationalStructure.Domain
         public string DepartmentName { get; set; }
         public string DepartmentDescription { get; set; }
         public int? ManagingDepartmentId { get; set; }
-        public Department ManagingDepartment { get; set; }
+        public Department? ManagingDepartment { get; set; }
 
     }
 }

@@ -10,6 +10,6 @@ namespace OrganizationalStructure.Application.Queries
 {
     public class GetDepartmentByIdQuery:IRequest<Department>
     {
-
+        public int Id { get; set; }
     }
 }

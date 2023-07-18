@@ -10,5 +10,6 @@ namespace OrganizationalStructure.Application.Queries
 {
     public class GetAllDepartmentsQuery:IRequest<List<Department>>
     {
+
     }
 }

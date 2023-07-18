@@ -11,6 +11,6 @@ namespace OrganizationalStructure.Application.Queries
 {
     public class GetAllChildrenDepartmentsQuery:IRequest<List<Department>>
     {
-
+        public int Id { get; set; }
     }
 }

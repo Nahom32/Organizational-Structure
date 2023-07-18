@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationalStructure.Domain", "OrganizationalStructure.Domain\OrganizationalStructure.Domain.csproj", "{B85D6C9F-DAFC-4349-AEAF-866D52401A91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrganizationalStructure.Domain", "OrganizationalStructure.Domain\OrganizationalStructure.Domain.csproj", "{B85D6C9F-DAFC-4349-AEAF-866D52401A91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationalStructure.Application", "OrganizationalStructure.Application\OrganizationalStructure.Application.csproj", "{EBCF0DA1-BEA6-4189-86C4-CCC93405F9FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrganizationalStructure.Application", "OrganizationalStructure.Application\OrganizationalStructure.Application.csproj", "{EBCF0DA1-BEA6-4189-86C4-CCC93405F9FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationalStructure.Infrastructure", "OrganizationalStructure.Infrastructure\OrganizationalStructure.Infrastructure.csproj", "{F6DBD3C0-03D1-4E67-B3FF-C023E033BD1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrganizationalStructure.Infrastructure", "OrganizationalStructure.Infrastructure\OrganizationalStructure.Infrastructure.csproj", "{F6DBD3C0-03D1-4E67-B3FF-C023E033BD1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationalStructure.WebApi", "OrganizationalStructure.WebApi\OrganizationalStructure.WebApi.csproj", "{DF5D244A-0B9A-4EC0-AE49-EE3C2F814A8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrganizationalStructure.WebApi", "OrganizationalStructure.WebApi\OrganizationalStructure.WebApi.csproj", "{DF5D244A-0B9A-4EC0-AE49-EE3C2F814A8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationalStructure.UnitTests", "OrganizationalStructure.UnitTests\OrganizationalStructure.UnitTests.csproj", "{B372ED7C-66FF-4807-B8EC-7321CBF915B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DF5D244A-0B9A-4EC0-AE49-EE3C2F814A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF5D244A-0B9A-4EC0-AE49-EE3C2F814A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF5D244A-0B9A-4EC0-AE49-EE3C2F814A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B372ED7C-66FF-4807-B8EC-7321CBF915B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B372ED7C-66FF-4807-B8EC-7321CBF915B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B372ED7C-66FF-4807-B8EC-7321CBF915B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B372ED7C-66FF-4807-B8EC-7321CBF915B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

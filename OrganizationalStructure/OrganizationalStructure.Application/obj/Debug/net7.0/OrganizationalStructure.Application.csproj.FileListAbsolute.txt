@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\OrganizationalStructure.Application.deps.json
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\OrganizationalStructure.Application.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\OrganizationalStructure.Application.pdb
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\OrganizationalStructure.Domain.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\OrganizationalStructure.Domain.pdb
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.AssemblyInfo.cs
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.csproj.CopyComplete
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\refint\OrganizationalStructure.Application.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\OrganizationalStructure.Application.pdb
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\obj\Debug\net7.0\ref\OrganizationalStructure.Application.dll
