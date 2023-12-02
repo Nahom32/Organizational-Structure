@@ -68,7 +68,7 @@ namespace OrganizationalStructure.WebApi.Controllers
            
         }
         [HttpPut]
-        public async Task<IActionResult>UpdateDepartment(Department department)
+        public async Task<IActionResult>UpdateDepartment([FromBody]Department department)
         {
             if (ModelState.IsValid)
             {

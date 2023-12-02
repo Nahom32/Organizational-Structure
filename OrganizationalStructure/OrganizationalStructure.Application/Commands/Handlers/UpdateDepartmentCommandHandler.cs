@@ -21,6 +21,7 @@ namespace OrganizationalStructure.Application.Commands.Handlers
         {
             var department = new Department()
             {
+                Id = request.Id,
                 DepartmentName = request.DepartmentName,
                 DepartmentDescription = request.DepartmentDescription,
                 ManagingDepartmentId = request.ManagingDepartmentId,
