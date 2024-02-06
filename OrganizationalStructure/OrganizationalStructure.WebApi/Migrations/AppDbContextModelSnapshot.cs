@@ -36,16 +36,19 @@ namespace OrganizationalStructure.WebApi.Migrations
 
                     b.Property<string>("DepartmentName")
                         .IsRequired()
-                        .HasColumnType("text");
+                        .HasMaxLength(10)
+                        .HasColumnType("character varying(10)")
+                        .HasColumnName("department_name");
 
                     b.Property<int?>("ManagingDepartmentId")
-                        .HasColumnType("integer");
+                        .HasColumnType("integer")
+                        .HasColumnName("managing_dept_id");
 
                     b.HasKey("Id");
 
                     b.HasIndex("ManagingDepartmentId");
 
-                    b.ToTable("Departments");
+                    b.ToTable("department", (string)null);
                 });
 
             modelBuilder.Entity("OrganizationalStructure.Domain.Department", b =>

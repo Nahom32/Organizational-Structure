@@ -17,16 +17,8 @@ namespace OrganizationalStructure.Infrastructure
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Department>()
-            .HasKey(d => d.Id);
-
-            // Specify the relationship between Department and ManagingDepartment
-            modelBuilder.Entity<Department>()
-                .HasOne(d => d.ManagingDepartment) // A Department can have one ManagingDepartment
-                .WithMany() // A Department can manage multiple other Departments
-                .HasForeignKey(d => d.ManagingDepartmentId) // The foreign key to store the ManagingDepartmentId
-                .OnDelete(DeleteBehavior.Restrict);
-            base.OnModelCreating(modelBuilder);
+           
+            modelBuilder.ApplyConfiguration(new DepartmentEntityConfiguration());
         }
         public DbSet<Department> Departments { get; set; }
     }

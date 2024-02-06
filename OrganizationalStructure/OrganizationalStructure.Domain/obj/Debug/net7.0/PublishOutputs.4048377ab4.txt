@@ -1,0 +1,3 @@
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Domain\bin\Debug\net7.0\publish\OrganizationalStructure.Domain.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Domain\bin\Debug\net7.0\publish\OrganizationalStructure.Domain.deps.json
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Domain\bin\Debug\net7.0\publish\OrganizationalStructure.Domain.pdb

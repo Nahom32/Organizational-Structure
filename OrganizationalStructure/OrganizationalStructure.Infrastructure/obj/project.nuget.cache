@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ONalKOxOOQpquo2X752UVjLAqnJswqescCcoRc0m59FUIfnKJgXZ1KC1jsZE70CbM5QxkYKa42eRL1Q4o6dycA==",
+  "dgSpecHash": "ZE6/uk3l1AJ3r8RIta3UBj2PIywEMT0lz36o1qY1PA1ZrswSHQLn4cHxlZC+SA/rIQ5sApBqWrsr5LM6iRYS3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\programs\\Organizational-Structure\\OrganizationalStructure\\OrganizationalStructure.Infrastructure\\OrganizationalStructure.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

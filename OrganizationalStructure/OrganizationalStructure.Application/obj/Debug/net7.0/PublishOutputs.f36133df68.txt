@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\OrganizationalStructure.Application.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\OrganizationalStructure.Application.deps.json
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\OrganizationalStructure.Application.pdb
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\MediatR.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\MediatR.Contracts.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\OrganizationalStructure.Domain.dll
+C:\Users\hp\Desktop\programs\Organizational-Structure\OrganizationalStructure\OrganizationalStructure.Application\bin\Debug\net7.0\publish\OrganizationalStructure.Domain.pdb

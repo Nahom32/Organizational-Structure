@@ -4,8 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using OrganizationalStructure.Application.Commands;
 using OrganizationalStructure.Application.Queries;
 using OrganizationalStructure.Domain;
-
-
+using OrganizationalStructure.WebApi.DTOs;
 
 namespace OrganizationalStructure.WebApi.Controllers
 {
@@ -22,7 +21,17 @@ namespace OrganizationalStructure.WebApi.Controllers
         public async Task<IActionResult> GetAll()
         {
             var departments = await _mediator.Send(new GetAllDepartmentsQuery());
-            return Ok(departments);
+            var deptDtos = new List<DepartmentDTO>();
+            foreach (var department in departments)
+            {
+                deptDtos.Add(new DepartmentDTO
+                {
+                    Id = department.Id,
+                    DepartmentName = department.DepartmentName,
+                    DepartmentDescription = department.DepartmentDescription
+                });
+            }
+            return Ok(deptDtos);
 
         }
         [HttpGet("{id}")]
